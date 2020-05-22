@@ -23,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -35,6 +35,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\12266\Desktop\web\untitled\venv" />
       <recent name="C:\Users\12266\PycharmProjects\untitled\venv\Scripts" />
       <recent name="C:\Users\12266\PycharmProjects\untitled\venv\Scripts\picture" />
       <recent name="C:\Users\12266\PycharmProjects\untitled\venv" />
@@ -83,6 +84,7 @@
       <workItem from="1588733592119" duration="470000" />
       <workItem from="1588738606563" duration="13000" />
       <workItem from="1588751557740" duration="1155000" />
+      <workItem from="1590144747231" duration="634000" />
     </task>
     <servers />
   </component>
@@ -94,10 +96,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="524" y="334" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585639919746" />
-    <state x="989" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588660125983">
+    <state x="989" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590144830389">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="989" y="338" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588660125983" />
+    <state x="989" y="338" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590144830389" />
     <state x="774" y="371" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585640418886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -106,26 +108,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1239" y="568" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1585639752323" />
-    <state x="850" y="434" key="FileChooserDialogImpl" timestamp="1588751589013">
+    <state x="850" y="434" key="FileChooserDialogImpl" timestamp="1590144783891">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="850" y="434" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588751589013" />
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1588752713505">
+    <state x="850" y="434" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590144783891" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1590145381544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588752713505" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1588752713504">
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590145381544" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1590145381544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588752713504" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1588752713504">
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590145381544" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1590145381544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588752713504" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1588752713505">
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590145381544" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1590145381544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588752713505" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590145381544" />
     <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1586175044004">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -153,6 +155,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled$Unnamed.coverage" NAME="main Coverage Results" MODIFIED="1585640977611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
-    <SUITE FILE_PATH="coverage/untitled$main.coverage" NAME="main Coverage Results" MODIFIED="1588752701913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
+    <SUITE FILE_PATH="coverage/untitled$main.coverage" NAME="main Coverage Results" MODIFIED="1590145359689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
   </component>
 </project>
